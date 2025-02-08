@@ -38,7 +38,9 @@ If you prefer visual learning, this is the perfect resource for you. Follow our 
 
 ## <a name="introduction">🤖 Introduction</a>
 
-A production-ready Subscription Management System API that handles real users, real money, and real business logic.
+Build a **production-ready Subscription Management System API** that handles **real users, real money, and real business logic**.  
+
+Authenticate users using JWTs, connect a database, create models and schemas, and integrate it with ORMs. Structure the architecture of your API to ensure scalability and seamless communication with the frontend.  
 
 If you're getting started and need assistance or face any bugs, join our active Discord community with over **50k+** members. It's a place where people help each other out.
 
@@ -54,7 +56,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 👉 **Advanced Rate Limiting and Bot Protection**: with Arcjet that helps you secure the whole app.
 
-👉 **Database Modeling**: and relationships using MongoDB & Mongoose.
+👉 **Database Modeling**: Models and relationships using MongoDB & Mongoose.
 
 👉 **JWT Authentication**: User CRUD operations and subscription management.
 
@@ -154,7 +156,7 @@ Open [http://localhost:5500](http://localhost:5500) in your browser or any HTTP 
 ## <a name="links">🔗 Links</a>
 
 - **Arcjet** - [https://launch.arcjet.com/4g2R2e4](https://launch.arcjet.com/4g2R2e4)  
-- **Upstash's forever-free plan** - [https://bit.ly/42ealiN](https://bit.ly/42ealiN)  
+- **Upstash** - [https://bit.ly/42ealiN](https://bit.ly/42ealiN)  
 - **Hostinger** - [https://hostinger.com/mastery10](https://hostinger.com/mastery10)  
 - **WebStorm** - [https://jb.gg/GetWebStormFree](https://jb.gg/GetWebStormFree)  
 
